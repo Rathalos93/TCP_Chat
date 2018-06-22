@@ -9,4 +9,3 @@ public class AuthentificationManager {
 		registeredUsers.put("user2", "123");
 	}
 }
-
